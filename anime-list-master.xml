@@ -39940,7 +39940,7 @@
   </anime>
   <anime anidbid="14506" tvdbid="76665" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuu Yuu Hakusho Kanzen Shinsaku Animation</name>
-	<mapping-list>
+    <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-17+18;</mapping>
     </mapping-list>
   </anime>
