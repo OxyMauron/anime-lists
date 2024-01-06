@@ -1073,19 +1073,19 @@
     <name>Dragon Ball</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="13" end="28" offset="-13">
-      <mapping anidbseason="1" tvdbseason="3" start="29" end="68" offset="-28">
-      <mapping anidbseason="1" tvdbseason="4" start="69" end="101" offset="-68">
-      <mapping anidbseason="1" tvdbseason="5" start="102" end="132" offset="-101">
-      <mapping anidbseason="1" tvdbseason="6" start="133" end="153" offset="-132">
+      <mapping anidbseason="1" tvdbseason="2" start="13" end="28" offset="-13"/>
+      <mapping anidbseason="1" tvdbseason="3" start="29" end="68" offset="-28"/>
+      <mapping anidbseason="1" tvdbseason="4" start="69" end="101" offset="-68"/>
+      <mapping anidbseason="1" tvdbseason="5" start="102" end="132" offset="-101"/>
+      <mapping anidbseason="1" tvdbseason="6" start="133" end="153" offset="-132"/>
     </mapping-list>
   </anime>
   <anime anidbid="233" tvdbid="79275" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Dragon Ball GT</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="17" end="40" offset="-16">
-      <mapping anidbseason="1" tvdbseason="3" start="41" end="64" offset="-40">
+      <mapping anidbseason="1" tvdbseason="2" start="17" end="40" offset="-16"/>
+      <mapping anidbseason="1" tvdbseason="3" start="41" end="64" offset="-40"/>
     </mapping-list>
   </anime>
   <anime anidbid="234" tvdbid="72241" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1258,7 +1258,7 @@
   <anime anidbid="272" tvdbid="79056" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>GetBackers: Dakkan'ya</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="26" end="49" offset="-25">
+      <mapping anidbseason="1" tvdbseason="2" start="26" end="49" offset="-25"/>
     </mapping-list>
   </anime>
   <anime anidbid="273" tvdbid="71361" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0322645">
@@ -1323,7 +1323,7 @@
   <anime anidbid="285" tvdbid="79544" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Kodomo no Omocha (1996)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="52" end="102" offset="-51">
+      <mapping anidbseason="1" tvdbseason="2" start="52" end="102" offset="-51"/>
     </mapping-list>
   </anime>
   <anime anidbid="286" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0097814">
@@ -1420,9 +1420,9 @@
     <name>Yuu Yuu Hakusho</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-4;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="26" end="66" offset="-25">
-      <mapping anidbseason="1" tvdbseason="3" start="67" end="94" offset="-66">
-      <mapping anidbseason="1" tvdbseason="4" start="95" end="112" offset="-94">
+      <mapping anidbseason="1" tvdbseason="2" start="26" end="66" offset="-25"/>
+      <mapping anidbseason="1" tvdbseason="3" start="67" end="94" offset="-66"/>
+      <mapping anidbseason="1" tvdbseason="4" start="95" end="112" offset="-94"/>
     </mapping-list>
   </anime>
   <anime anidbid="313" tvdbid="75534" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0114563">
@@ -1675,9 +1675,9 @@
   <anime anidbid="377" tvdbid="75113" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Urusei Yatsura</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="55" end="106" offset="-54">
-      <mapping anidbseason="1" tvdbseason="3" start="107" end="149" offset="-106">
-      <mapping anidbseason="1" tvdbseason="4" start="150" end="195" offset="-149">
+      <mapping anidbseason="1" tvdbseason="2" start="55" end="106" offset="-54"/>
+      <mapping anidbseason="1" tvdbseason="3" start="107" end="149" offset="-106"/>
+      <mapping anidbseason="1" tvdbseason="4" start="150" end="195" offset="-149"/>
     </mapping-list>
   </anime>
   <anime anidbid="378" tvdbid="75113" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0086520">
@@ -1741,10 +1741,10 @@
     <name>Hokuto no Ken</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="23" end="57" offset="-22">
-      <mapping anidbseason="1" tvdbseason="3" start="58" end="82" offset="-57">
-      <mapping anidbseason="1" tvdbseason="4" start="83" end="109" offset="-82">
-      <mapping anidbseason="1" tvdbseason="5" start="110" end="122" offset="-109">
+      <mapping anidbseason="1" tvdbseason="2" start="23" end="57" offset="-22"/>
+      <mapping anidbseason="1" tvdbseason="3" start="58" end="82" offset="-57"/>
+      <mapping anidbseason="1" tvdbseason="4" start="83" end="109" offset="-82"/>
+      <mapping anidbseason="1" tvdbseason="5" start="110" end="122" offset="-109"/>
       <mapping anidbseason="1" tvdbseason="5" start="123" end="152" offset="-122">
     </mapping-list>
   </anime>
@@ -2257,7 +2257,7 @@
     <name>Princess Tutu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-5;13-6;14-7;15-8;16-9;17-10;18-11;19-12;20-13;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="14" end="38" offset="-13">
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="38" offset="-13"/>
     </mapping-list>
   </anime>
   <anime anidbid="517" tvdbid="80468" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
