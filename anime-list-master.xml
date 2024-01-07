@@ -1073,7 +1073,7 @@
     <name>Dragon Ball</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;2-6;3-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="13" end="28" offset="-13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="28" offset="-13"/>
       <mapping anidbseason="1" tvdbseason="3" start="29" end="68" offset="-28"/>
       <mapping anidbseason="1" tvdbseason="4" start="69" end="101" offset="-68"/>
       <mapping anidbseason="1" tvdbseason="5" start="102" end="132" offset="-101"/>
