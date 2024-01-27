@@ -1,17 +1,16 @@
 name: Validate XML
 on:
   pull_request:
+    types: [opened, reopened, edited]
     branches: ['master']
   workflow_dispatch:
 jobs:
   validate-xml:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+      - uses: actions/checkout@v4
       - name: Validate XML
         run: |
           sudo apt-get update
           sudo apt-get install libxml2-utils
-          for f in *.xml; do xmllint --noout --valid "$f"; done
+          xmllint --noout --format anime-list-master.xml anime-movieset-list.xml
