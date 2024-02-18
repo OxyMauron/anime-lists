@@ -6287,6 +6287,7 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
       <mapping anidbseason="1" tvdbseason="4">;1-1+2;2-3+4;3-5+6;4-7+8;5-9+10;6-11+12;7-13+14;8-15+16;9-17+18;10-19+20;11-21+22;12-23+24;13-25+26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1762" tvdbid="85065" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Love?</name>
